@@ -2,7 +2,7 @@ Welcome to My GitHub Profile!
 
 Greetings! 
 
-I'm Sancho Caayao, an Engineer by training, Operations Manager by experience, and now evolving into an AI, Tech, and Software Professional. With a solid foundation in engineering principles and extensive experience in managing operations, I bring a unique blend of skills to the table.
+I'm Sancho Caayao, Electrical Engineer, experienced Admin & Operations Manager, and now evolving into an AI, Tech, and Software Professional. With a solid foundation in engineering principles and extensive experience in managing operations, I bring a unique blend of skills to the table.
 
 Current Focus
 
